@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e04dd972-9e07-4cda-8558-70b661fc1f5b": {
+      "ProjectGuid": "e04dd972-9e07-4cda-8558-70b661fc1f5b",
+      "DisplayName": "Task1",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "276b3077-fe94-4cce-a5a0-bd563bb6ae02": {
+      "ProjectGuid": "276b3077-fe94-4cce-a5a0-bd563bb6ae02",
+      "DisplayName": "Lesson",
+      "ColorIndex": 1
+    },
+    "664717d8-e21d-4de3-a060-fcd8bc091ffb": {
+      "ProjectGuid": "664717d8-e21d-4de3-a060-fcd8bc091ffb",
+      "DisplayName": "Task2",
+      "ColorIndex": 2
+    },
+    "dd9fbaed-0704-4eb6-9f38-9381c6615ce7": {
+      "ProjectGuid": "dd9fbaed-0704-4eb6-9f38-9381c6615ce7",
+      "DisplayName": "Task3",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
